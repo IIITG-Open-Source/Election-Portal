@@ -1,1 +1,1 @@
-# IIITG-Election-Portal
+# Election-Portal
